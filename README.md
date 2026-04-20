@@ -29,7 +29,7 @@ pkg update && pkg upgrade -y
 pkg install nodejs git -y
 
 # 3. Clonar el repositorio
-git clone https://github.com/tuusuario/aku-bot.git
+git clone https://github.com/Zozuke/Aku-bot.git
 
 # 4. Entrar a la carpeta
 cd aku-bot
@@ -47,3 +47,4 @@ termux-setup-storage
 
 # 8. Iniciar el bot
 npm start
+https://github.com/Zozuke/Aku-bot.git
