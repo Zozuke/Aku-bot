@@ -32,7 +32,7 @@ pkg install nodejs git -y
 git clone https://github.com/Zozuke/Aku-bot.git
 
 # 4. Entrar a la carpeta
-cd aku-bot
+cd Aku-bot
 
 # 5. Instalar dependencias
 npm install
