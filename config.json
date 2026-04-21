@@ -1,0 +1,20 @@
+{
+  "api_keys": [
+  "AIzaSyBm_ky-z2nzuzfjfjdjdkdkkekekekkrkk",
+  "AIzaSyB6d2i_mho1jCZC_UkFQ9-1C_F7373737j",
+  "AIzaSyA3XRsjb8YgNloqDKYd9eueueurie888ie",
+  "AIzaSyAGyZuZieue73737euueueuu3838388777",
+  "AIzaSyDEH3XEUHUCyueue737376e65d5wje6e73",
+  "AIzaSyAFlAlnk1Iejiwiwiwiiwikwiwwiwiieii"
+],
+  "owner_name": "tu nombre",
+  "owner_number": "+52 221 383838",
+  "business_name": "papeleria",
+  "business_type": "miser",
+  "business_country": "mexico",
+  "bot_name": "aku-bot",
+  "bot_version": "1.0.0",
+  "max_characters": 1500,
+  "max_memory": 6,
+  "personality": "actua como un vendedor profecional y vende de acuerdo al negocio , y debes ser una persona amigable "
+}

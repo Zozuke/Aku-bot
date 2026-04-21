@@ -1,0 +1,16 @@
+{
+  "name": "aku-bot",
+  "version": "1.0.0",
+  "main": "aku-bot.js",
+  "scripts": {
+    "start": "node aku-bot.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.104.0",
+    "@whiskeysockets/baileys": "^7.0.0-rc.9",
+    "axios": "^1.15.1",
+    "node-cache": "^5.1.2",
+    "pino": "^10.3.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
